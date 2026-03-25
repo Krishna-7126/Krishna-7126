@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Krishna 👋
 
-<!--
-**Krishna-7126/Krishna-7126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AIML Student  
+💻 Passionate about Programming & AI  
+🚀 Currently learning CS50  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills I'm Learning
+- C (CS50)
+- Python (Basics)
+- Git & GitHub
+
+---
+
+## 🎯 Current Goals
+- Build real-world projects
+- Master Data Structures & Algorithms
+- Start freelancing / internship
+
+---
+
+## 🚀 Projects (Coming Soon)
+- 🔹 CS50 Problem Sets
+- 🔹 Mini Web Apps
+- 🔹 AI-based Projects
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/Krishna-7126
