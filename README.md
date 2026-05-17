@@ -84,9 +84,10 @@
 ---
 
 ## 🔝 Top Repositories
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-7126&repo=ZeroTrace&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-7126&repo=ZeroTrace&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-7126&repo=Rakshyanetra&theme=tokyonight" />
----
+</p>
 
 ## 💬 Dev Quote
 <p align="center">
@@ -97,7 +98,7 @@
 
 ## 👁️ Profile Views
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Krishna-7126&icon=6&color=0" />
+ <img src="https://komarev.com/ghpvc/?username=Krishna-7126&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
