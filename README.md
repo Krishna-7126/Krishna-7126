@@ -84,10 +84,8 @@
 ---
 
 ## 🔝 Top Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Krishna-7126&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-7126&repo=ZeroTrace&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-7126&repo=Rakshyanetra&theme=tokyonight" />
 ---
 
 ## 💬 Dev Quote
